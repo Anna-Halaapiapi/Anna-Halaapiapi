@@ -56,7 +56,7 @@ A recreation of C's `printf` function supporting `%c`, `%s`, `%d`, `%i`, and `%%
 ### 🌸 Gratitude Wall - 1 hour or less Challenge
 A full-stack app built as a personal timed challenge - designed to test my ability to recall information and deliver a working product under pressure. Users can post and view gratitude notes, with a complete frontend and backend built from scratch in under an hour.
 
-[![View Repo](https://img.shields.io/badge/Check%20It%20Out-%237F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anna-Halaapiapi/personal_projects/tree/master/grat_wall)
+[![View Repo](https://img.shields.io/badge/Check%20It%20Out-%237F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anna-Halaapiapi/personal-projects/tree/master/grat_wall)
 
 [![Skills](https://skillicons.dev/icons?i=python,flask,html,css,js)](https://skillicons.dev)
 
