@@ -1,7 +1,7 @@
 <!-- BANNER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&&text=Hi!+I'm+Anna&fontAlign=15&fontAlignY=50&color=7F77DD&fontColor=fff&fontSize=24&animation=fadeIn)
 
----
+<!-- --- -->
 
 <!-- INTRO -->
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+<!-- --- -->
 
 <!-- PROJECTS -->
 <details open>
@@ -21,8 +21,7 @@ A web app helping carers track how many books their child has read - built aroun
 
 [![View Repo](https://img.shields.io/badge/Check%20It%20Out-%237F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anna-Halaapiapi/holbertonschool-portfolio_project)
 
-[![Skills](https://skillicons.dev/icons?i=react,python,fastapi,firebase,docker,github,aws,mysql)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=react,vite,python,fastapi,firebase,docker,aws,mysql,githubactions,npm)](https://skillicons.dev)
 
 ---
 
@@ -41,7 +40,7 @@ A Unix command-line interpreter built from scratch in C. Implements process crea
 
 [![View Repo](https://img.shields.io/badge/Check%20It%20Out-%237F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anna-Halaapiapi/holberton_simple_shell)
 
-[![Skills](https://skillicons.dev/icons?i=c,linux,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,linux,bash,emacs)](https://skillicons.dev)
 
 ---
 
@@ -50,7 +49,7 @@ A recreation of C's `printf` function supporting `%c`, `%s`, `%d`, `%i`, and `%%
 
 [![View Repo](https://img.shields.io/badge/Check%20It%20Out-%237F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anna-Halaapiapi/holbertonschool-printf)
 
-[![Skills](https://skillicons.dev/icons?i=c,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,linux,emacs)](https://skillicons.dev)
 
 ---
 
@@ -61,7 +60,6 @@ A full-stack app built as a personal timed challenge - designed to test my abili
 
 [![Skills](https://skillicons.dev/icons?i=python,flask,html,css,js)](https://skillicons.dev)
 
----
 </details>
 
 <!-- TECH STACK -->
@@ -73,14 +71,13 @@ A full-stack app built as a personal timed challenge - designed to test my abili
   <img src="https://img.shields.io/badge/JavaScript-%237F77DD?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%237F77DD?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%237F77DD?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%237F77DD?style=flat-square&logo=sql&logoColor=white" />
 </p>
 
 <h4>Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/React-%237F77DD?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%237F77DD?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%237F77DD?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%237F77DD?style=flat-square&logo=css&logoColor=white" />
 </p>
 
 <h4>Backend</h4>
@@ -100,13 +97,18 @@ A full-stack app built as a personal timed challenge - designed to test my abili
 <h4>Tools & Platforms</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-%237F77DD?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%237F77DD?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-%237F77DD?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%237F77DD?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-%237F77DD?style=flat-square&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%237F77DD?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%237F77DD?style=flat-square&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-%237F77DD?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Emacs-%237F77DD?style=flat-square&logo=emacs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emacs-%237F77DD?style=flat-square&logo=gnu-emacs&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Vim-%237F77DD?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%237F77DD?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%237F77DD?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-%237F77DD?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%237F77DD?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-%237F77DD?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
 <h4>Testing</h4>
@@ -131,8 +133,6 @@ A full-stack app built as a personal timed challenge - designed to test my abili
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anna-Halaapiapi&theme=buefy" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anna-Halaapiapi&theme=buefy" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anna-Halaapiapi&theme=buefy&utcOffset=10" />
-
-
 </p>
 </details>
 
@@ -145,6 +145,6 @@ A full-stack app built as a personal timed challenge - designed to test my abili
   </a>
 </p>
 <p align="center">
-  <i>Currently open to junior software engineering roles in Melbourne or remote. Always happy to have a chat! 😄☕</i>
+  <i>Currently open to software engineering roles in Melbourne CBD or remote. Always happy to have a chat! 😄☕</i>
 </p>
 </details>
